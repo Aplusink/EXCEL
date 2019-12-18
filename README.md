@@ -1,5 +1,4 @@
-# EXCEL
-Introduction to Advanced Excel Formulas
+# Introduction to Advanced Excel Formulas
 
 
 What you'll learn:
